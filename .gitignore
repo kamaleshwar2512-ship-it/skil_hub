@@ -1,0 +1,19 @@
+# Environment
+venv/
+.env
+__pycache__/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Database
+*.sqlite-journal
+# database/skil_hub.sqlite
+
+# System
+.DS_Store
+Thumbs.db
